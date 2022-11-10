@@ -101,7 +101,7 @@ async function run(){
         })
     }
     finally{
-
+        console.log('server established');
     }
 }
 
